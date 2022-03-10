@@ -1,0 +1,15 @@
+/* 
+Basic CSS for a Simple Page, 
+Most of the purpose and work in done in JavaScript,
+so I didnt do much for the css
+*/
+body, html {
+    height: 100%;
+    background-color: black;
+  }
+  .center {
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
