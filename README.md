@@ -1,4 +1,4 @@
-#IpLogger To Discord
+# IpLogger To Discord
 
 
 IPLOG is a simple iplogger, used through the Abstract Geolocation API;
@@ -11,7 +11,7 @@ It is customizable and very light.
 
 
 
-#How?
+# How?
 
 
 1. Download the code
@@ -25,7 +25,7 @@ TUTORIAL:
 
 
 
-#NOTIFIER:
+# NOTIFIER:
 
 
 This is purely for TESTING and EDUCATIONAL purposes.
